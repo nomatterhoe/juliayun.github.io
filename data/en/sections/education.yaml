@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master in Information Technology and Systems
+  icon: fa-university
+  timeframe: 2019.07-Now
+  institution:
+    name: University of Tasmania
+    url: "https://www.utas.edu.au/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 6.83
+    outOf: 7
+  publications: #(optional)
+  - title: "An Online Human-Agent Interaction System: A Brain-controlled Agent Playing Games in Unity"
+    url: "https://youtu.be/9AWKHeatc6I"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Artificial Intelligence
+      achieved: 3.75
+      outOf: 4
+    - name: Web Development
+      achieved: 3.75
+      outOf: 4
+    - name: ICT Systems Administration
+      achieved: 3.80
+      outOf: 4
+    - name: ICT Project Management
+      achieved: 3.5
+      outOf: 4
+  extracurricularActivities: #(optional)
+  - Casual research assistant and academic tutor
+  - "Research pathway in second year, research focus: reinforcement learning in autonomous driving"
+  - Recipient of TIS (Tasmanian International Scholarship).
+- name: B.Eng. in Software Engineering
+  icon: fa-graduation-cap
+  timeframe: 2008.09-2012.06
+  institution:
+    name: NanKai University
+    url: "https://en.nankai.edu.cn/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: C
+      achieved: 3.75
+      outOf: 4
+    - name: C++
+      achieved: 3.80
+      outOf: 4
+    - name: Data Structure and Algorithms
+      achieved: 3.5
+      outOf: 4
+    - name: Operating System
+      achieved: 3.75
+      outOf: 4
+  extracurricularActivities: #(optional)
+  - Recipient of National Scholarship.
