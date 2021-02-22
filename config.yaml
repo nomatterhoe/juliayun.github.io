@@ -1,4 +1,4 @@
-baseURL: https://juliayun.github.io
+baseURL: https://nomatterhoe.github.io
 languageCode: en-us
 title: "Julia Yun's Portfolio"
 theme: "toha"
@@ -21,7 +21,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/nomatterhoe/juliayun.github.io
+  gitRepo: https://github.com/nomatterhoe/nomatterhoe.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
