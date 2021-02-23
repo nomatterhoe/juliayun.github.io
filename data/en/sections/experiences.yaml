@@ -11,33 +11,65 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: PandaTV.
+    url: "https://panda.tv/"
+    location: Beijing,China
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: PandaTV is a live streaming platform for video games and other genres.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Senior Android Engineer
+    start: Oct 2016
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Sep 2017
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
+    - Involved in the evaluation, design and refactoring of the client-side and streamer-side apps on Android platform for better streaming performance.
     
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Rush.
+    location: Beijing,China
+    overview: Rush.im is a mobile mail app supporting different email accounts including Gmail, iCloud, Exchange, QQ and live chat feature between email accounts.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Android Engineer
+    start: Mar 2016
+    end: Sep 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Responsible for the integration of different email accounts, contact management, picture processing and settings modules.
+
+- company:
+    name: Wandou Labs.
+    url: "https://www.wandoujia.com/"
+    location: Beijing,China
+    overview: "Wandoujia: One of Chinese mainstream Android app stores. SnapLock: A smart screen lock app which offers helpful and intelligent information to users, based on time, user's location, similar to
+GoogleNow."
+  positions:
+  - designation: Android Developer
+    start: Apr 2014
+    end: Jan 2016
+    responsibilities:
+    - "Wandoujia: responsible for the implementation of disk and memory clean-up, Wifi squatting features on Wandoujia app"
+    - "SnapLock: responsible for the implementation and maintenance of smart pop-up notifications, schedule reminder, layout adjusting
+and taxi ordering though accessibility service of Android phones."
+
+- company:
+    name: Dabanniu.
+    location: Beijing,China
+    overview: Dabannniu is a hairstyle changing App enabling changing hairstyles on users’ head photos.
+  positions:
+  - designation: Software Engineer (Android)
+    start: Jul 2013
+    end: Mar 2014
+    responsibilities:
+    - "Responsible for the Android-side implementation of functional modules including account management, social media sharing, picture cache framework, hair dyeing and hairstylist profile page"
+
+- company:
+    name: Renren.com.
+    url: "http://www.renren.com"
+    location: Beijing,China
+    overview: "Renren.com was Chinese version of Facebook."
+  positions:
+  - designation: Software Engineer (Android)
+    start: Jul 2012
+    end: Mar 2014
+    responsibilities:
+    - "MeiMei - One of the exploratory programs in Renren, a picture-based SNS App, like Instagram. Was responsible for the code design and implementation of account, feeduploading, friends and settings modules on Android platform."
