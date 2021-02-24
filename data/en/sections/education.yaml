@@ -30,6 +30,9 @@ degrees:
     - name: Artificial Intelligence
       achieved: 3.75
       outOf: 4
+    - name: Software Application Design and Implementation (C#)
+      achieved: 3.75
+      outOf: 4
     - name: Web Development
       achieved: 3.75
       outOf: 4
@@ -53,10 +56,10 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: C
+    - name: C, C++
       achieved: 3.75
       outOf: 4
-    - name: C++
+    - name: C#
       achieved: 3.80
       outOf: 4
     - name: Data Structure and Algorithms

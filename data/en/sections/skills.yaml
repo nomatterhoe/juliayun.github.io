@@ -27,16 +27,6 @@ skills:
   icon: "/images/sections/skills/admin.png"
   summary: "Familiar with network architecture and security. Knowledge in routing and subnetting."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development, have used GitLab and Github."
-  url: "https://git-scm.com/"
-
-- name: Jira
-  logo: /images/sections/skills/jira.jpeg
-  summary: "Experienced with Jira used as platform for requirement and test case management."
-  url: "https://www.atlassian.com/software/jira"
-
 - name: Java
   logo: /images/sections/skills/java.png
   summary: "Used as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
@@ -45,6 +35,10 @@ skills:
   logo: /images/sections/skills/python.png
   summary: "Learnt through research project, used for machine learning-based research experiments and other quick problem solving."
 
+- name: C#
+  logo: /images/sections/skills/csharp.png
+  summary: "Able to use C# to build client applications including GUI implementation and database communication."
+
 - name: JavaScript
   logo: /images/sections/skills/js.png
   summary: "Used for web development. Able to use and debug."
@@ -52,3 +46,14 @@ skills:
 - name: PHP
   logo: /images/sections/skills/php.png
   summary: "Used for web development. Able to use and debug."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development, mainly used GitLab and Github."
+  url: "https://git-scm.com/"
+
+- name: Jira
+  logo: /images/sections/skills/jira.jpeg
+  summary: "Experienced with Jira used as platform for requirement and test case management."
+  url: "https://www.atlassian.com/software/jira"
+
